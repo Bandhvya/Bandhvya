@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bandhvya
 - 👀 I’m interested in gardening,badminton!!
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on front end raect based web development.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me bandhavya12@gmail.com
 
 <!---
